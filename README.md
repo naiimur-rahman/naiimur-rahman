@@ -134,6 +134,10 @@
 <img src="./github.png" width=50 height=50 alt="naiimur-rahman" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://t.me/sohaaaaaaaan" target="_blank">
+<img src="./telegram.png" width=50 height=50 alt="naiimur-rahman" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 <br/>
 
